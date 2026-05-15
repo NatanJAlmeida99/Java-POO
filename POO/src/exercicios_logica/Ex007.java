@@ -2,7 +2,7 @@ package exercicios_logica;
 
 import java.util.Scanner;
 
-public class ex007 {
+public class Ex007 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

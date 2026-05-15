@@ -2,7 +2,7 @@ package exercicios_logica;
 
 import java.util.Scanner;
 
-public class ex008 {
+public class Ex008 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Informe três números: ");

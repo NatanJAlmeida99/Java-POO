@@ -5,7 +5,7 @@ import java.text.DecimalFormatSymbols;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ex012 {
+public class Ex012 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in).useLocale(Locale.US);
         DecimalFormatSymbols symbols = new DecimalFormatSymbols(Locale.US);

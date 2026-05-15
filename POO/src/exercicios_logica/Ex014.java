@@ -2,7 +2,7 @@ package exercicios_logica;
 
 import java.util.Scanner;
 
-public class ex014 {
+public class Ex014 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Informe o valor de A:");
